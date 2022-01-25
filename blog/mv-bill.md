@@ -3,7 +3,7 @@ title: Como MV Bill fez o primeiro Grime brasileiro com Charlie Brown Jr. e DJ L
 description: Inspirado em Dizzee Rascal, "Cidadão Comum Refém" marcou o pioneirismo do gênero no Brasil e o MC nos conta como tudo rolou.
 published: true
 tags: [rap, music]
-authorName: Pedro Reis
+authorName: brasamag
 date: 08/01/2022
 ---
 
@@ -12,10 +12,6 @@ date: 08/01/2022
 Inspirado em Dizzee Rascal, "Cidadão Comum Refém" marcou o pioneirismo do gênero no Brasil e o MC nos conta como tudo rolou.
 
 ---
-
-**brasamag**
-
-data de criação: 08/01/2022
 
 “É bom fazer parte da história, ser pioneiro em algumas coisas e ter esse reconhecimento do pioneirismo.” Enquanto gravava “Declaração de Guerra”, professor Bill tinha uma inquietude e buscava sonoridades diferentes para auxiliar suas composições. Quando ganhou um CD do Dizzee Rascal, rapper e produtor musical britânico, ele entendeu onde poderia chegar. “Fui conhecendo um pouco mais e vi que a sonoridade, além do sotaque, era diferente. E descobri que o nome daquilo que eles estavam fazendo era Grime”, disse o MC com exclusividade à Brasa Mag.
 
